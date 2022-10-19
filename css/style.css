@@ -40,27 +40,27 @@ img {
 @font-face {
   font-family: "Gotham-pro-300";
   font-weight: 300;
-  src: local("Gotham-pro-300"), url(/fonts/GothamPro-Light.ttf);
+  src: local("Gotham-pro-300"), url(fonts/GothamPro-Light.ttf);
 }
 @font-face {
   font-family: "Gotham-pro-400";
   font-weight: 400;
-  src: local("Gotham-pro-400"), url(/fonts/GothamPro-Regular.ttf);
+  src: local("Gotham-pro-400"), url(fonts/GothamPro-Regular.ttf);
 }
 @font-face {
   font-family: "Gotham-pro-500";
   font-weight: 500;
-  src: local("Gotham-pro-500"), url(/fonts/GothamPro-Medium.ttf);
+  src: local("Gotham-pro-500"), url(fonts/GothamPro-Medium.ttf);
 }
 @font-face {
   font-family: "Gotham-pro-700";
   font-weight: 700;
-  src: local("Gotham-pro-700"), url(/fonts/GothamPro-Bold.ttf);
+  src: local("Gotham-pro-700"), url(fonts/GothamPro-Bold.ttf);
 }
 @font-face {
   font-family: "Gotham-pro-900";
   font-weight: 900;
-  src: local("Gotham-pro-900"), url(/fonts/GothamPro-Black.ttf);
+  src: local("Gotham-pro-900"), url(fonts/GothamPro-Black.ttf);
 }
 
 /*--------------------*/
